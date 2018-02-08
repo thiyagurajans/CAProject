@@ -1,0 +1,9 @@
+D:\ALU\TaxGuru\1-NewDesign\Code\CA Project Coding\CAApplication\DatabaseLayer\bin\x64\Release\DatabaseLayer.dll
+D:\ALU\TaxGuru\1-NewDesign\Code\CA Project Coding\CAApplication\DatabaseLayer\bin\x64\Release\DatabaseLayer.pdb
+D:\ALU\TaxGuru\1-NewDesign\Code\CA Project Coding\CAApplication\DatabaseLayer\bin\x64\Release\Common.dll
+D:\ALU\TaxGuru\1-NewDesign\Code\CA Project Coding\CAApplication\DatabaseLayer\bin\x64\Release\System.Data.SQLite.dll
+D:\ALU\TaxGuru\1-NewDesign\Code\CA Project Coding\CAApplication\DatabaseLayer\bin\x64\Release\Common.pdb
+D:\ALU\TaxGuru\1-NewDesign\Code\CA Project Coding\CAApplication\DatabaseLayer\obj\x64\Release\DatabaseLayer.csprojResolveAssemblyReference.cache
+D:\ALU\TaxGuru\1-NewDesign\Code\CA Project Coding\CAApplication\DatabaseLayer\obj\x64\Release\DatabaseLayer.csproj.CoreCompileInputs.cache
+D:\ALU\TaxGuru\1-NewDesign\Code\CA Project Coding\CAApplication\DatabaseLayer\obj\x64\Release\DatabaseLayer.dll
+D:\ALU\TaxGuru\1-NewDesign\Code\CA Project Coding\CAApplication\DatabaseLayer\obj\x64\Release\DatabaseLayer.pdb

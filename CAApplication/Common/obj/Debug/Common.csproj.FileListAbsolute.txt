@@ -1,0 +1,5 @@
+D:\ALU\TaxGuru\1-NewDesign\Code\CA Project Coding\CAApplication\Common\bin\Debug\Common.dll
+D:\ALU\TaxGuru\1-NewDesign\Code\CA Project Coding\CAApplication\Common\bin\Debug\Common.pdb
+D:\ALU\TaxGuru\1-NewDesign\Code\CA Project Coding\CAApplication\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\ALU\TaxGuru\1-NewDesign\Code\CA Project Coding\CAApplication\Common\obj\Debug\Common.dll
+D:\ALU\TaxGuru\1-NewDesign\Code\CA Project Coding\CAApplication\Common\obj\Debug\Common.pdb
